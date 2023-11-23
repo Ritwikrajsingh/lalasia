@@ -1,0 +1,30 @@
+footer {
+    border-top: 2px solid #ECE4DE;
+    ;
+    display: flex;
+    margin-inline: 134px;
+    padding-block: 105px;
+    font-size: 26px;
+    justify-content: space-between;
+}
+
+footer .left img {
+    height: 55px;
+}
+footer ul {
+    list-style: none;
+}
+footer .left {
+    width: 700px;
+    line-height:200%;
+}
+footer .right {
+    display: flex;
+    gap: 96px;
+}
+
+footer .right .items ul{
+    display: flex;
+    flex-direction: column;
+    line-height: 235%;
+}
