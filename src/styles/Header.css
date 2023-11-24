@@ -1,0 +1,31 @@
+header {
+    padding: 38px 130px;
+    font-size: 26px;
+    border-bottom: 3px solid #F3F3F3;
+}
+
+header .logo img {
+    height: 55px;
+}
+
+.cart-and-profile img {
+    height: 40px;
+}
+
+header,
+nav ul,
+.cart-and-profile {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header ul {
+    list-style: none;
+    justify-content: space-between;
+    gap: 80px
+}
+
+.cart-and-profile {
+    gap: 30px
+}
