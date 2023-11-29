@@ -13,6 +13,9 @@ function App() {
     >
       Hello World!
     </a> */}
+    <main style={{minHeight:"50vh", margin: "10% 0% -13% 40%"}}>
+      <h1>What the hell is happening here</h1>
+    </main>
     <Footer />
   </>
   );
